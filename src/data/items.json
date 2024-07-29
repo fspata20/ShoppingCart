@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.avif"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 899.99,
+    "imgUrl": "/imgs/laptop.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Phone",
+    "price": 599.99,
+    "imgUrl": "/imgs/phone.avif"
+  },
+  {
+    "id": 4,
+    "name": "Headphones",
+    "price": 79.99,
+    "imgUrl": "/imgs/headphones.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Watch",
+    "price": 199.99,
+    "imgUrl": "/imgs/watch.jpg"
+  }
+]
